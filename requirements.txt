@@ -1,0 +1,7 @@
+NumPy==1.23.5
+Pandas==1.5.3
+Scikit-learn==1.2.2
+TensorFlow==2.12.0
+Statsmodels==0.13.5
+Matplotlib==3.7.2
+Seaborn==0.12.2
