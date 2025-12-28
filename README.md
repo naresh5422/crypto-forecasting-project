@@ -9,12 +9,12 @@ Asset: Bitcoin (BTC)
 Frequency: Daily OHLCV data
 
 ## Folder Structure
-crypto-forecasting-project/
-├── data/
-├── notebooks/
-├── models/
-├── results/
-├── report/
+crypto-forecasting-project
+├── data
+├── notebooks
+├── models
+├── results
+├── report
 └── README.md
 
 ## Environment
