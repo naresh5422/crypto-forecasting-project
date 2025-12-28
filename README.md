@@ -10,12 +10,12 @@ Frequency: Daily OHLCV data
 
 ## Folder Structure
 crypto-forecasting-project
-├── data
-├── notebooks
-├── models
-├── results
-├── report
-└── README.md
+- data/
+- notebooks/
+- models/
+- results/
+- report/
+- README.md
 
 ## Environment
 - Python 3.9+
